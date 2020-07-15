@@ -1,0 +1,5 @@
+home.php adalah menampilkan date atau jam dan tanggal menampilkan data 
+login.php adalah tampilan menu login 
+sourch code tampilan utama dari web ini ada pada folder page yang berisikan
+logout.php agar user bisa melakukan logout 
+
